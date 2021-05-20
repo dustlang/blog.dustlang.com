@@ -1,4 +1,4 @@
-# The Rust blog
+# The Dust Blog
 
 [![Build Status](https://travis-ci.com/rust-lang/blog.rust-lang.org.svg?branch=master)](https://travis-ci.com/rust-lang/blog.rust-lang.org)
 
